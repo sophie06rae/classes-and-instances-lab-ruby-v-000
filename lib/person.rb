@@ -1,4 +1,5 @@
-Person.class
+class Person
+end 
 
 
 
